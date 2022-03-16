@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: user-server
+
+server:
+  port: 0
+
+user:
+  username: genghaoxiang
+  password: 111111
